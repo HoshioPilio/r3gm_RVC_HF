@@ -4,7 +4,7 @@
 
 RUN ON COLAB
 
-[https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/github/laynz28/RCV-AI-COVER-ALL/blob/main/Applio_HF_(Mangio_RVC_Fork).ipynb)
+[](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/laynz28/RCV-AI-COVER-ALL/blob/main/Applio_HF_(Mangio_RVC_Fork).ipynb)
 
 
 
