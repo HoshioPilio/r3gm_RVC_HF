@@ -3,8 +3,7 @@
 > r3gm/RVC_HF is designed to complement existing repositories, and as such, certain features may be in experimental stages, potentially containing bugs. Additionally, there might be instances of coding practices that could be improved or refined. It is not intended to replace any other repository.
 
 RUN ON COLAB
-
-[](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/laynz28/RCV-AI-COVER-ALL/blob/main/Applio_HF_(Mangio_RVC_Fork).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laynz28/RCV-AI-COVER-ALL/blob/main/Applio_HF_(Mangio_RVC_Fork).ipynb)
 
 
 
