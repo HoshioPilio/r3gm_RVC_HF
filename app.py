@@ -3151,4 +3151,4 @@ if __name__ == "__main__":
     if os.name == 'nt': 
         print(i18n("Any ConnectionResetErrors post-conversion are irrelevant and purely visual; they can be ignored.\n"))
     app = GradioSetup(UTheme=config.grtheme)
-    GradioRun(app)
+    GradioRun(app, Share=True)
