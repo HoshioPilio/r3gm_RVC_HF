@@ -1,7 +1,13 @@
 # 🍏 r3gm/RVC_HF APPLIO FORK
 > [!NOTE]
 > r3gm/RVC_HF is designed to complement existing repositories, and as such, certain features may be in experimental stages, potentially containing bugs. Additionally, there might be instances of coding practices that could be improved or refined. It is not intended to replace any other repository.
-> 
+
+RUN ON COLAB
+
+"<a href=\"https://colab.research.google.com/github/laynz28/RCV-AI-COVER-ALL/blob/main/Applio_HF_(Mangio_RVC_Fork).ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+   
+
+
 **support APPLIO**
 [![Discord](https://img.shields.io/badge/SUPPORT_DISCORD-37a779?style=for-the-badge)](https://discord.gg/IAHispano) [![Discord Bot](https://img.shields.io/badge/DISCORD_BOT-37a779?style=for-the-badge)](https://bot.applio.org)  [![Docs](https://img.shields.io/badge/DOCS-37a779?style=for-the-badge)](https://docs.applio.org)
 
