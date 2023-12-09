@@ -3129,26 +3129,5 @@ def GradioSetup(UTheme=gr.themes.Soft()):
                     minpitch_slider, minpitch_txtbox,
                     maxpitch_slider, maxpitch_txtbox,]
             )
-        return app
-
-def GradioRun(app):
-    share_gradio_link = config.iscolab or config.paperspace
-    concurrency_count = 511
-    max_size = 1022
-
-    if (
-        config.iscolab or config.paperspace
-    ):  
-        app.queue(concurrency_count=concurrency_count, max_size=max_size).launch(
-        favicon_path="./images/icon.png",
-        )
-    else:
-        app.queue(concurrency_count=concurrency_count, max_size=max_size).launch(
-        favicon_path=".\images\icon.png",
-        )
-
-if __name__ == "__main__":
-    if os.name == 'nt': 
-        print(i18n("Any ConnectionResetErrors post-conversion are irrelevant and purely visual; they can be ignored.\n"))
-    app = GradioSetup(UTheme=config.grtheme)
-    GradioRun(app, Share=True)
+            
+    app.launch(Share=True)
