@@ -4,8 +4,8 @@
 
 RUN ON COLAB
 
-"<a href=\"https://colab.research.google.com/github/laynz28/RCV-AI-COVER-ALL/blob/main/Applio_HF_(Mangio_RVC_Fork).ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-   
+[https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/github/laynz28/RCV-AI-COVER-ALL/blob/main/Applio_HF_(Mangio_RVC_Fork).ipynb)
+
 
 
 **support APPLIO**
